@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Exo+2:400,300,700);
+
+html {
+    width: 100%;
+}
+
+body{
+    width: 60%;
+    margin: 0 auto;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 16px;
+    line-height: 150%;
+    color: #222;
+    background: #ffffff;
+}
+
+header h1{
+    font-size: 64px;
+    line-height: 110%;
+    color: #FA9696;
+}
+
+footer p{
+    color: #d5d5d5;
+}
+
+a, a:link, a:visited{
+    color: #FA9696;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover, a:active{
+    text-decoration: underline;
+}
+
+.lead-text{
+    font-size: 24px;
+    font-weight: 300;
+}
