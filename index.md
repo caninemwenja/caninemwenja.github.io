@@ -1,6 +1,7 @@
 ---
 layout: default
 header: Hi, I'm Canine.
+title: Canine Mwenja
 ---
 
 Hi, I'm Kennedy Mwenja aka Canine. 
