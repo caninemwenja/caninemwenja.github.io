@@ -2,6 +2,7 @@
 layout: default
 header: Hi, I'm Canine.
 ---
+
 Hi, I'm Kennedy Mwenja aka Canine. 
 
 I'm a Software Engineer at [Savannah Informatics Limited](http://savannahinformatics.com/). I studied CS at [UON](http://uonbi.ac.ke).
